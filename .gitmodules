@@ -4,3 +4,6 @@
 [submodule "skeleton-fa20/--force"]
 	path = skeleton-fa20/--force
 	url = https://github.com/Berkeley-CS61B/library-fa20
+[submodule "skeleton-fa20/library-fa20-2"]
+	path = skeleton-fa20/library-fa20-2
+	url = https://github.com/Berkeley-CS61B/library-fa20
